@@ -2010,7 +2010,7 @@ input[type="submit"]:hover {
 }
 .action-shadow {
 	height: 20px;
-	background: url('/https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/shortcodes/callshadow_bottom.png') bottom center no-repeat;
+	background: url('https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/shortcodes/callshadow_bottom.png') bottom center no-repeat;
 	background-size: 100% 20px;
 }
 #introaction-core,
@@ -2587,7 +2587,7 @@ padding: 0;
 	height: 0;
 	max-width: 75px;
 	max-height: 75px;
-	background-image: url('/https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/shortcodes/icon-link.png');
+	background-image: url('https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/shortcodes/icon-link.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	-webkit-transition: all 0.3s ease;
@@ -2678,7 +2678,7 @@ padding: 0;
 	height: 0;
 	max-width: 75px;
 	max-height: 75px;
-	background-image: url('/https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/shortcodes/icon-link.png');
+	background-image: url('https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/shortcodes/icon-link.png');
 	background-repeat: no-repeat;
 	background-position: center center;
 	-webkit-transition: all 0.3s ease;
@@ -2934,12 +2934,12 @@ padding: 0;
 	color: inherit;
 }
 #sidebar .thinkup_widget_twitterfeed .tweet-content {
-	background: url('/https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/widgets/twitter-bird-light-bgs.png') -8px -5px no-repeat;
+	background: url('https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/widgets/twitter-bird-light-bgs.png') -8px -5px no-repeat;
 	background-size: 40px;
 }
 
 #footer .thinkup_widget_twitterfeed .tweet-content {
-	background: url('/https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/widgets/twitter-bird-dark-bgs.png') -8px -5px no-repeat;
+	background: url('https://bilalkhan1132.github.io/cryptowarriorsweb.github.io/wp-content/themes/alante/images/widgets/twitter-bird-dark-bgs.png') -8px -5px no-repeat;
 	background-size: 40px;
 }
 #footer .thinkup_widget_twitterfeed small {
